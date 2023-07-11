@@ -1,0 +1,96 @@
+ Conv4
+no aug
+base
+lossq
+sharpness: Confidence interval: 3.59185636 ± 0.14993129_____lo: 1.5449278378486633lp: 5.136784194310506
+
+ Conv6
+no aug
+base
+lossq
+sharpness: Confidence interval: 4.46608911 ± 0.19072314_____lo: 1.250115966796875lp: 5.71620508035024
+
+ ResNet10
+no aug
+base
+lossq
+sharpness: Confidence interval: 8.78285878 ± 0.32135062_____lo: 1.0194115940729778lp: 9.802270374298097
+
+ ResNet18
+no aug
+base
+lossq
+sharpness: Confidence interval: 6.21509628 ± 0.28589779_____lo: 0.8303512028853098lp: 7.045447481473287
+
+ Conv4
+aug
+base
+lossq
+sharpness: Confidence interval: 3.30271628 ± 0.08644745_____lo: 1.5558432324727376lp: 4.858559513092041
+
+ Conv6
+aug
+base
+lossq
+sharpness: Confidence interval: 3.63766106 ± 0.10190173_____lo: 1.2819416201114655lp: 4.919602677027385
+
+ ResNet10
+aug
+base
+lossq
+sharpness: Confidence interval: 6.91239545 ± 0.35034180_____lo: 0.8506756230195364lp: 7.763071077664693
+
+ ResNet18
+aug
+base
+lossq
+sharpness: Confidence interval: 7.35080257 ± 0.28951670_____lo: 1.0740884272257487lp: 8.424891001383463
+
+ Conv4
+no aug
+novel
+lossq
+sharpness: Confidence interval: 3.50517225 ± 0.15609332_____lo: 1.925663813749949lp: 5.430836059252421
+
+ Conv6
+no aug
+novel
+lossq
+sharpness: Confidence interval: 3.64210759 ± 0.15499420_____lo: 1.782568564414978lp: 5.424676156044006
+
+ ResNet10
+no aug
+novel
+lossq
+sharpness: Confidence interval: 9.76010864 ± 0.32184585_____lo: 1.3975074036916098lp: 11.157616046269736
+
+ ResNet18
+no aug
+novel
+lossq
+sharpness: Confidence interval: 6.35099728 ± 0.26157366_____lo: 1.2705851590633392lp: 7.621582434972127
+
+ Conv4
+aug
+novel
+lossq
+sharpness: Confidence interval: 3.29969321 ± 0.08086373_____lo: 1.7125624187787374lp: 5.012255624135335
+
+ Conv6
+aug
+novel
+lossq
+sharpness: Confidence interval: 3.39753993 ± 0.10608511_____lo: 1.5786932444572448lp: 4.976233177185058
+
+ ResNet10
+aug
+novel
+lossq
+sharpness: Confidence interval: 7.34409078 ± 0.33490714_____lo: 1.332484443585078lp: 8.676575218836467
+
+ ResNet18
+aug
+novel
+lossq
+sharpness: Confidence interval: 7.34207097 ± 0.31050533_____lo: 1.3444704620043437lp: 8.68654143333435
+

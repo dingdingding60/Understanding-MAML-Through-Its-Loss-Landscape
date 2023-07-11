@@ -1,0 +1,1144 @@
+Time: 20230518-221444, Setting: Conv4_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 53.53% +- 0.65% 
+dataset:miniImagenet base
+loss:1.3826088032722472+_0.076734710269285
+
+Time: 20230518-221521, Setting: Conv4_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 48.35% +- 0.60% 
+dataset:CUB base
+loss:1.3484191769957543+_0.26832805901058837
+
+Time: 20230518-221840, Setting: Conv4_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 46.29% +- 0.57% 
+dataset:miniImagenet novel
+loss:1.4378309038877488+_0.06503601062060203
+
+Time: 20230518-221905, Setting: Conv4_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 45.46% +- 0.57% 
+dataset:CUB novel
+loss:1.4721473372578622+_0.2916783262885528
+
+Time: 20230518-222321, Setting: Conv4_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 48.98% +- 0.57% 
+dataset:CUB base
+loss:1.329604281425476+_0.24860677249072063
+
+Time: 20230518-222327, Setting: Conv4_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 52.27% +- 0.60% 
+dataset:miniImagenet base
+loss:1.385371210694313+_0.07371695711838819
+
+Time: 20230518-222710, Setting: Conv4_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 46.34% +- 0.59% 
+dataset:CUB novel
+loss:1.4166906114220619+_0.278518805167558
+
+Time: 20230518-222720, Setting: Conv4_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 46.76% +- 0.56% 
+dataset:miniImagenet novel
+loss:1.4254045062065124+_0.06537885065113479
+
+Time: 20230518-223057, Setting: Conv4_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 46.96% +- 0.57% 
+dataset:CUB base
+loss:1.4228801375627518+_0.2963848211792695
+
+Time: 20230518-223155, Setting: Conv4_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 52.62% +- 0.64% 
+dataset:miniImagenet base
+loss:1.3829647625684738+_0.07754804891847668
+
+Time: 20230518-223449, Setting: Conv4_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 44.44% +- 0.56% 
+dataset:CUB novel
+loss:1.5482368542551994+_0.333894328330981
+
+Time: 20230518-223519, Setting: Conv4_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 46.45% +- 0.54% 
+dataset:miniImagenet novel
+loss:1.433560616493225+_0.06166956108834506
+
+Time: 20230518-223839, Setting: Conv6_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 56.95% +- 0.66% 
+dataset:CUB base
+loss:1.2913945917487144+_0.49125550841515575
+
+Time: 20230518-224004, Setting: Conv6_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 61.28% +- 0.65% 
+dataset:miniImagenet base
+loss:1.2315307569503784+_0.10795807530205173
+
+Time: 20230518-224228, Setting: Conv6_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 50.54% +- 0.65% 
+dataset:CUB novel
+loss:1.4962286991477012+_0.5241591781872809
+
+Time: 20230518-224258, Setting: Conv4_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 52.45% +- 0.71% 
+dataset:CUB novel -1
+loss:1.3090717970728873+_0.33547809663303085
+
+Time: 20230518-224401, Setting: Conv4_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 53.49% +- 0.72% 
+dataset:CUB novel -1
+loss:1.1873667173087596+_0.2659402211295579
+
+Time: 20230518-224503, Setting: Conv4_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 53.80% +- 0.73% 
+dataset:CUB novel -1
+loss:1.1738115101456643+_0.26327919126778676
+
+Time: 20230518-224608, Setting: Conv4_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 55.94% +- 0.73% 
+dataset:CUB novel -1
+loss:1.1058685747981072+_0.23495637503028335
+
+Time: 20230518-224700, Setting: Conv4_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 45.08% +- 0.60% 
+dataset:miniImagenet novel -1
+loss:1.3305912675261498+_0.20613501397249165
+
+Time: 20230518-224717, Setting: Conv6_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 58.24% +- 0.69% 
+dataset:CUB base -1
+loss:1.194685816049576+_0.4044927732485286
+
+Time: 20230518-224738, Setting: Conv4_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 55.19% +- 0.74% 
+dataset:CUB novel -1
+loss:1.112805400967598+_0.23201280165729413
+
+Time: 20230518-224740, Setting: Conv4_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 43.86% +- 0.57% 
+dataset:miniImagenet novel 2399
+loss:1.3929631342291833+_0.22346600516278997
+
+Time: 20230518-224818, Setting: Conv4_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 45.34% +- 0.58% 
+dataset:miniImagenet novel -1
+loss:1.3457108904719353+_0.21069079755865264
+
+Time: 20230518-224908, Setting: Conv4_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 57.96% +- 0.77% 
+dataset:CUB novel -1
+loss:1.064721749007702+_0.25079894861152696
+
+Time: 20230518-224911, Setting: Conv4_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 44.21% +- 0.60% 
+dataset:miniImagenet novel 2399
+loss:1.38437419205904+_0.22246014105396686
+
+Time: 20230518-224932, Setting: Conv4_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 46.45% +- 0.59% 
+dataset:miniImagenet novel -1
+loss:1.3047845627069474+_0.2020699337956138
+
+Time: 20230518-224934, Setting: Conv6_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 61.94% +- 0.67% 
+dataset:miniImagenet base -1
+loss:1.2262028683423996+_0.11121762010174711
+
+Time: 20230518-225045, Setting: Conv4_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 44.65% +- 0.58% 
+dataset:miniImagenet novel 2399
+loss:1.38515102738142+_0.2322625748770184
+
+Time: 20230518-225100, Setting: Conv6_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 55.78% +- 0.76% 
+dataset:CUB novel -1
+loss:1.2160533222258092+_0.386651266649468
+
+Time: 20230518-225105, Setting: Conv4_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 45.00% +- 0.61% 
+dataset:miniImagenet novel -1
+loss:1.3053898767828942+_0.17625452818736842
+
+Time: 20230518-225140, Setting: Conv4_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 44.28% +- 0.66% 
+dataset:CUB novel 2399
+loss:1.6754910779595376+_0.40566736347973875
+
+Time: 20230518-225222, Setting: Conv4_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 45.15% +- 0.60% 
+dataset:miniImagenet novel 2399
+loss:1.3042838479876517+_0.17682384937019277
+
+Time: 20230518-225245, Setting: Conv4_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 44.96% +- 0.60% 
+dataset:miniImagenet novel -1
+loss:1.3069316486716271+_0.17817433544819017
+
+Time: 20230518-225256, Setting: Conv6_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 57.08% +- 0.77% 
+dataset:CUB novel -1
+loss:1.1453542899489402+_0.3596563986236272
+
+Time: 20230518-225327, Setting: Conv4_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 44.44% +- 0.65% 
+dataset:CUB novel 2399
+loss:1.6907293120026587+_0.40998509197848215
+
+Time: 20230518-225339, Setting: Conv6_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 51.76% +- 0.63% 
+dataset:CUB novel -1
+loss:1.4022820894122123+_0.43961481558314186
+
+Time: 20230518-225357, Setting: Conv4_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 45.01% +- 0.61% 
+dataset:miniImagenet novel 2399
+loss:1.3007313666939735+_0.177269098932343
+
+Time: 20230518-225428, Setting: Conv4_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 45.91% +- 0.64% 
+dataset:miniImagenet novel -1
+loss:1.2888027517199516+_0.1915337109663253
+
+Time: 20230518-225500, Setting: Conv6_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 56.35% +- 0.79% 
+dataset:CUB novel -1
+loss:1.138615908563137+_0.33589763214883167
+
+Time: 20230518-225506, Setting: Conv4_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 43.53% +- 0.67% 
+dataset:CUB novel 2399
+loss:1.7160440615415573+_0.4060437452750512
+
+Time: 20230518-225535, Setting: Conv4_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 46.34% +- 0.62% 
+dataset:miniImagenet novel 2399
+loss:1.2867899905443192+_0.19015717616204655
+
+Time: 20230518-225612, Setting: Conv6_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 51.76% +- 0.61% 
+dataset:miniImagenet novel -1
+loss:1.3378939497470856+_0.091106674120328
+
+Time: 20230518-225622, Setting: Conv6_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 47.46% +- 0.65% 
+dataset:miniImagenet novel -1
+loss:1.3316640601158143+_0.28464013457484016
+
+Time: 20230518-225642, Setting: Conv4_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 55.50% +- 0.75% 
+dataset:CUB novel 2399
+loss:1.1063272357881069+_0.2490558487140409
+
+Time: 20230518-225651, Setting: Conv6_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 66.12% +- 0.75% 
+dataset:CUB novel -1
+loss:0.8889214388728142+_0.29023858844274314
+
+Time: 20230518-225737, Setting: Conv6_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 38.55% +- 0.62% 
+dataset:miniImagenet novel 2399
+loss:2.087758250892162+_0.4921755506673926
+
+Time: 20230518-225820, Setting: Conv4_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 55.57% +- 0.75% 
+dataset:CUB novel 2399
+loss:1.1187967511713506+_0.2515426701065068
+
+Time: 20230518-225829, Setting: Conv6_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 47.79% +- 0.65% 
+dataset:miniImagenet novel -1
+loss:1.2791651304364204+_0.24256631104548046
+
+Time: 20230518-225844, Setting: Conv6_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 66.73% +- 0.79% 
+dataset:CUB novel -1
+loss:0.8831294884830714+_0.3167937378747329
+
+Time: 20230518-225926, Setting: Conv6_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 38.75% +- 0.56% 
+dataset:miniImagenet novel 2399
+loss:2.1219456154108047+_0.4550725313181503
+
+Time: 20230518-225945, Setting: Conv4_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 57.27% +- 0.76% 
+dataset:CUB novel 2399
+loss:1.076936788469553+_0.24487179251380617
+
+Time: 20230518-230013, Setting: Conv6_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 46.46% +- 0.64% 
+dataset:miniImagenet novel -1
+loss:1.306667335987091+_0.23304642665176387
+
+Time: 20230518-230026, Setting: Conv6_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 66.68% +- 0.80% 
+dataset:CUB novel -1
+loss:0.872407039180398+_0.30129286210121103
+
+Time: 20230518-230035, Setting: Conv6_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 58.29% +- 0.68% 
+dataset:CUB base -1
+loss:1.159165160983801+_0.3639599621378115
+
+Time: 20230518-230111, Setting: Conv6_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 39.01% +- 0.59% 
+dataset:miniImagenet novel 2399
+loss:2.019930863440037+_0.44483766387556944
+
+Time: 20230518-230130, Setting: Conv6_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 47.71% +- 0.74% 
+dataset:CUB novel 2399
+loss:2.5138373988568783+_0.9125569047477684
+
+Time: 20230518-230150, Setting: Conv4_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 75.88% +- 0.72% 
+dataset:CUB base -1
+loss:0.6798803753703833+_0.2801709041673548
+
+Time: 20230518-230157, Setting: Conv6_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 52.73% +- 0.66% 
+dataset:miniImagenet novel -1
+loss:1.1572944656610489+_0.225289388109632
+
+Time: 20230518-230257, Setting: Conv6_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 51.91% +- 0.67% 
+dataset:miniImagenet novel 2399
+loss:1.1784094588756562+_0.22330627238012504
+
+Time: 20230518-230312, Setting: Conv6_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 49.25% +- 0.72% 
+dataset:CUB novel 2399
+loss:2.465375285565853+_0.8913198466539954
+
+Time: 20230518-230319, Setting: Conv4_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 64.77% +- 0.73% 
+dataset:CUB base -1
+loss:0.9111073265969754+_0.24251772683056247
+
+Time: 20230518-230336, Setting: Conv6_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 60.99% +- 0.65% 
+dataset:miniImagenet base -1
+loss:1.2334691165089606+_0.10627123781145181
+
+Time: 20230518-230343, Setting: Conv6_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 50.83% +- 0.69% 
+dataset:miniImagenet novel -1
+loss:1.1976954886317253+_0.2322340857284977
+
+Time: 20230518-230446, Setting: Conv6_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 51.12% +- 0.67% 
+dataset:miniImagenet novel 2399
+loss:1.1878373284339905+_0.22166341560943614
+
+Time: 20230518-230452, Setting: Conv4_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 62.33% +- 0.73% 
+dataset:CUB base -1
+loss:0.9640054889023304+_0.23913227289054112
+
+Time: 20230518-230455, Setting: Conv6_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 48.56% +- 0.72% 
+dataset:CUB novel 2399
+loss:2.320017189204693+_0.8138720358795523
+
+Time: 20230518-230529, Setting: Conv6_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 50.37% +- 0.69% 
+dataset:miniImagenet novel -1
+loss:1.2059115076065063+_0.22612414952526758
+
+Time: 20230518-230628, Setting: Conv4_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 64.09% +- 0.77% 
+dataset:CUB base -1
+loss:0.9194618172943592+_0.23619005157836748
+
+Time: 20230518-230636, Setting: Conv6_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 51.66% +- 0.71% 
+dataset:miniImagenet novel 2399
+loss:1.1842341819107534+_0.2457267645699182
+
+Time: 20230518-230649, Setting: Conv6_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 65.04% +- 0.78% 
+dataset:CUB novel 2399
+loss:0.942103612601757+_0.32129319086825964
+
+Time: 20230518-230657, Setting: Conv6_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 51.62% +- 0.61% 
+dataset:CUB novel -1
+loss:1.352013249337673+_0.35435385058543223
+
+Time: 20230518-230707, Setting: Conv4_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 56.94% +- 0.73% 
+dataset:miniImagenet base -1
+loss:1.093464723289013+_0.24160452404578234
+
+Time: 20230518-230802, Setting: Conv4_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 63.60% +- 0.80% 
+dataset:CUB base -1
+loss:0.9380844348669052+_0.22879857980736537
+
+Time: 20230518-230823, Setting: Conv4_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 62.35% +- 0.82% 
+dataset:miniImagenet base 2399
+loss:0.977249644190073+_0.2752693113807869
+
+Time: 20230518-230851, Setting: Conv6_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 66.52% +- 0.76% 
+dataset:CUB novel 2399
+loss:0.883737566113472+_0.294886206824126
+
+Time: 20230518-230853, Setting: Conv4_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 60.10% +- 0.77% 
+dataset:miniImagenet base -1
+loss:1.0291817789971829+_0.2568242163993608
+
+Time: 20230518-230942, Setting: Conv4_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 64.72% +- 0.80% 
+dataset:CUB base -1
+loss:0.9093021345734597+_0.24451121478509294
+
+Time: 20230518-230957, Setting: Conv6_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 51.21% +- 0.58% 
+dataset:miniImagenet novel -1
+loss:1.345412880063057+_0.08718226285100822
+
+Time: 20230518-231002, Setting: Conv4_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 62.44% +- 0.76% 
+dataset:miniImagenet base 2399
+loss:0.9748276186585426+_0.2518406228772168
+
+Time: 20230518-231043, Setting: Conv4_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 58.25% +- 0.72% 
+dataset:miniImagenet base -1
+loss:1.0623062301278114+_0.22835381091878987
+
+Time: 20230518-231054, Setting: Conv6_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 65.19% +- 0.79% 
+dataset:CUB novel 2399
+loss:0.9042118482291699+_0.30259796543895356
+
+Time: 20230518-231202, Setting: Conv4_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 61.79% +- 0.77% 
+dataset:miniImagenet base 2399
+loss:0.9966169967353344+_0.271273697554331
+
+Time: 20230518-231204, Setting: Conv6_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 79.24% +- 0.72% 
+dataset:CUB base -1
+loss:0.5604871872812509+_0.25495038575918144
+
+Time: 20230518-231248, Setting: Conv4_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 88.29% +- 0.61% 
+dataset:CUB base 2399
+loss:0.3658028652239591+_0.2672525143805818
+
+Time: 20230518-231248, Setting: Conv4_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 54.74% +- 0.80% 
+dataset:miniImagenet base -1
+loss:1.1334743100106717+_0.22715699320761998
+
+Time: 20230518-231345, Setting: Conv4_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 54.37% +- 0.77% 
+dataset:miniImagenet base 2399
+loss:1.1392119455635548+_0.2212313129670503
+
+Time: 20230518-231402, Setting: Conv6_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 81.03% +- 0.73% 
+dataset:CUB base -1
+loss:0.5279724023863673+_0.2362588303472286
+
+Time: 20230518-231433, Setting: Conv4_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 88.77% +- 0.61% 
+dataset:CUB base 2399
+loss:0.34654890952352435+_0.2735283489963241
+
+Time: 20230518-231434, Setting: Conv4_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 55.21% +- 0.79% 
+dataset:miniImagenet base -1
+loss:1.1258185439705848+_0.2309385737338869
+
+Time: 20230518-231449, Setting: ResNet10_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 73.19% +- 0.67% 
+dataset:CUB base -1
+loss:0.7746182024329901+_0.3232141986962591
+
+Time: 20230518-231519, Setting: Conv4_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 55.52% +- 0.76% 
+dataset:miniImagenet base 2399
+loss:1.1171786361336709+_0.22564176675323977
+
+Time: 20230518-231601, Setting: Conv6_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 73.71% +- 0.78% 
+dataset:CUB base -1
+loss:0.6903811945915223+_0.26060697207864086
+
+Time: 20230518-231617, Setting: Conv4_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 89.04% +- 0.60% 
+dataset:CUB base 2399
+loss:0.3376011696229689+_0.2651376957192858
+
+Time: 20230518-231618, Setting: Conv4_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 54.23% +- 0.76% 
+dataset:miniImagenet base -1
+loss:1.1410953167676925+_0.21875916288678143
+
+Time: 20230518-231654, Setting: Conv4_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 55.32% +- 0.78% 
+dataset:miniImagenet base 2399
+loss:1.1239938262104987+_0.2336104639867139
+
+Time: 20230518-231749, Setting: Conv4_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 63.59% +- 0.80% 
+dataset:CUB base 2399
+loss:0.931270976871252+_0.2523444227755426
+
+Time: 20230518-231749, Setting: Conv6_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 83.14% +- 0.68% 
+dataset:CUB base -1
+loss:0.49703138501197097+_0.21829849112598454
+
+Time: 20230518-231813, Setting: Conv6_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 69.74% +- 0.81% 
+dataset:miniImagenet base -1
+loss:0.8014778805822134+_0.2768475207880512
+
+Time: 20230518-231842, Setting: Conv6_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 86.41% +- 0.66% 
+dataset:miniImagenet base 2399
+loss:0.39683101637288926+_0.2705824509133398
+
+Time: 20230518-231846, Setting: ResNet10_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 68.37% +- 0.65% 
+dataset:miniImagenet base -1
+loss:0.9714814895391464+_0.153645759198991
+
+Time: 20230518-231917, Setting: Conv4_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 64.12% +- 0.80% 
+dataset:CUB base 2399
+loss:0.9250014231204987+_0.24665914383903106
+
+Time: 20230518-231938, Setting: Conv6_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 82.59% +- 0.70% 
+dataset:CUB base -1
+loss:0.5057151332497597+_0.22908505904328336
+
+Time: 20230518-232003, Setting: Conv6_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 62.40% +- 0.82% 
+dataset:miniImagenet base -1
+loss:0.9601083433330059+_0.27386743021895105
+
+Time: 20230518-232030, Setting: Conv6_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 85.85% +- 0.65% 
+dataset:miniImagenet base 2399
+loss:0.4193997184820473+_0.2821003496984428
+
+Time: 20230518-232046, Setting: Conv4_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 65.34% +- 0.74% 
+dataset:CUB base 2399
+loss:0.8980412594676018+_0.22777139763521398
+
+Time: 20230518-232055, Setting: ResNet10_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 55.43% +- 0.65% 
+dataset:CUB novel -1
+loss:1.2396332638859748+_0.3538007042713506
+
+Time: 20230518-232124, Setting: Conv6_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 82.56% +- 0.72% 
+dataset:CUB base -1
+loss:0.5110285808667541+_0.24029686652088994
+
+Time: 20230518-232154, Setting: Conv6_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 59.09% +- 0.78% 
+dataset:miniImagenet base -1
+loss:1.0424705816209316+_0.24906757154843562
+
+Time: 20230518-232200, Setting: Conv6_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 85.87% +- 0.67% 
+dataset:miniImagenet base 2399
+loss:0.41565792268514634+_0.2830711572130447
+
+Time: 20230518-232229, Setting: Conv6_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 98.31% +- 0.25% 
+dataset:CUB base 2399
+loss:0.058928860089894446+_0.1250142560745448
+
+Time: 20230518-232319, Setting: Conv6_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 66.75% +- 0.84% 
+dataset:miniImagenet base 2399
+loss:0.873979174554348+_0.2722041742044633
+
+Time: 20230518-232331, Setting: Conv6_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 66.83% +- 0.84% 
+dataset:miniImagenet base -1
+loss:0.8744785656630993+_0.27351504142087607
+
+Time: 20230518-232405, Setting: Conv6_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 98.47% +- 0.22% 
+dataset:CUB base 2399
+loss:0.05484918043573634+_0.1286995879917394
+
+Time: 20230518-232430, Setting: ResNet10_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 53.35% +- 0.65% 
+dataset:miniImagenet novel -1
+loss:1.2116960755586623+_0.14624347723401251
+
+Time: 20230518-232437, Setting: Conv6_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 66.65% +- 0.83% 
+dataset:miniImagenet base 2399
+loss:0.8709874131679535+_0.26613240711987934
+
+Time: 20230518-232522, Setting: Conv6_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 66.62% +- 0.83% 
+dataset:miniImagenet base -1
+loss:0.868757986843586+_0.2630528775033434
+
+Time: 20230518-232552, Setting: Conv6_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 98.48% +- 0.21% 
+dataset:CUB base 2399
+loss:0.05942943232764082+_0.13831726437318456
+
+Time: 20230518-232605, Setting: Conv6_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 67.46% +- 0.78% 
+dataset:miniImagenet base 2399
+loss:0.8519287747442722+_0.247914906154675
+
+Time: 20230518-232623, Setting: ResNet10_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 72.21% +- 0.65% 
+dataset:CUB base -1
+loss:0.8130256927907467+_0.36855510327992924
+
+Time: 20230518-232701, Setting: Conv6_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 65.13% +- 0.77% 
+dataset:miniImagenet base -1
+loss:0.9116991058588028+_0.24688698658372835
+
+Time: 20230518-232727, Setting: Conv6_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 83.32% +- 0.70% 
+dataset:CUB base 2399
+loss:0.4953261235654354+_0.23639188917467638
+
+Time: 20230518-232845, Setting: Conv6_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 83.43% +- 0.69% 
+dataset:CUB base 2399
+loss:0.48536886300891635+_0.23578619153407449
+
+Time: 20230518-232957, Setting: ResNet10_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 55.03% +- 0.66% 
+dataset:CUB novel -1
+loss:1.2886792068183421+_0.3871764601539932
+
+Time: 20230518-233001, Setting: Conv6_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 83.57% +- 0.70% 
+dataset:CUB base 2399
+loss:0.4848693981915712+_0.2329548349671116
+
+Time: 20230518-233045, Setting: ResNet10_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 68.99% +- 0.65% 
+dataset:miniImagenet base -1
+loss:0.9635175192356109+_0.1547677102364638
+
+Time: 20230518-233343, Setting: ResNet10_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 74.64% +- 0.64% 
+dataset:CUB base -1
+loss:0.7358780344575644+_0.3331902679410542
+
+Time: 20230518-233446, Setting: ResNet10_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 53.85% +- 0.60% 
+dataset:miniImagenet novel -1
+loss:1.2072983722686768+_0.13508891798260633
+
+Time: 20230518-233648, Setting: ResNet10_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 56.33% +- 0.67% 
+dataset:CUB novel -1
+loss:1.2336373960375786+_0.35806429312433885
+
+Time: 20230518-233927, Setting: ResNet10_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 68.58% +- 0.61% 
+dataset:miniImagenet base -1
+loss:0.9654982705116272+_0.14783605974458133
+
+Time: 20230518-234106, Setting: ResNet18_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 84.64% +- 0.54% 
+dataset:CUB base -1
+loss:0.4642507855147123+_0.23326760910731217
+
+Time: 20230518-234246, Setting: ResNet10_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 53.52% +- 0.60% 
+dataset:miniImagenet novel -1
+loss:1.2090648107528688+_0.14098548084807672
+
+Time: 20230518-234402, Setting: ResNet18_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 61.68% +- 0.66% 
+dataset:CUB novel -1
+loss:1.058304025888443+_0.31717356388392837
+
+Time: 20230518-234741, Setting: ResNet18_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 83.10% +- 0.52% 
+dataset:miniImagenet base -1
+loss:0.7752669899463653+_0.1251234571217665
+
+Time: 20230518-234744, Setting: ResNet18_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 82.99% +- 0.59% 
+dataset:CUB base -1
+loss:0.5112178525850177+_0.278153706180146
+
+Time: 20230518-235113, Setting: ResNet18_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 60.99% +- 0.68% 
+dataset:CUB novel -1
+loss:1.0886701519191264+_0.32583650084031657
+
+Time: 20230518-235120, Setting: ResNet18_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 53.81% +- 0.62% 
+dataset:miniImagenet novel -1
+loss:1.238892520070076+_0.12492729324995754
+
+Time: 20230518-235447, Setting: ResNet18_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 84.47% +- 0.55% 
+dataset:CUB base -1
+loss:0.46129822348058225+_0.25897590756750716
+
+Time: 20230518-235606, Setting: ResNet18_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 83.18% +- 0.54% 
+dataset:miniImagenet base -1
+loss:0.7633134076297283+_0.12749049144704427
+
+Time: 20230518-235833, Setting: ResNet18_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 61.89% +- 0.68% 
+dataset:CUB novel -1
+loss:1.0644602044820786+_0.31920714065530437
+
+Time: 20230518-235943, Setting: ResNet18_baseline_aug_seed6 1shot 5way_test, Acc: 1000 Test Acc = 54.67% +- 0.63% 
+dataset:miniImagenet novel -1
+loss:1.214403223514557+_0.12446301594722266
+
+Time: 20230519-000204, Setting: Conv4_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 30.46% +- 0.49% 
+dataset:CUB base -1
+loss:19.188325937271117+_7.712112539420059
+
+Time: 20230519-000404, Setting: ResNet18_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 83.43% +- 0.54% 
+dataset:miniImagenet base -1
+loss:0.7684678770005703+_0.1277790376307415
+
+Time: 20230519-000514, Setting: Conv4_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 28.16% +- 0.41% 
+dataset:CUB novel -1
+loss:20.66319020318985+_8.094580910242646
+
+Time: 20230519-000746, Setting: ResNet18_baseline_aug_seed7 1shot 5way_test, Acc: 1000 Test Acc = 54.83% +- 0.62% 
+dataset:miniImagenet novel -1
+loss:1.2203079214692116+_0.12491568593863929
+
+Time: 20230519-000859, Setting: Conv4_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 30.20% +- 0.47% 
+dataset:CUB base -1
+loss:19.405697712659837+_8.072911949845881
+
+Time: 20230519-001158, Setting: Conv4_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 32.20% +- 0.51% 
+dataset:miniImagenet base -1
+loss:3.9078828785419466+_1.4383055522043617
+
+Time: 20230519-001250, Setting: Conv4_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 28.25% +- 0.42% 
+dataset:CUB novel -1
+loss:20.900018543720247+_8.00645423252289
+
+Time: 20230519-001517, Setting: Conv4_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 30.09% +- 0.46% 
+dataset:miniImagenet novel -1
+loss:4.163479506373405+_1.4168584660923644
+
+Time: 20230519-001615, Setting: Conv4_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 30.60% +- 0.49% 
+dataset:CUB base -1
+loss:18.677026327371596+_7.7326289022656605
+
+Time: 20230519-001930, Setting: Conv4_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 28.05% +- 0.42% 
+dataset:CUB novel -1
+loss:20.62259381389618+_8.116410749872657
+
+Time: 20230519-001951, Setting: Conv4_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 31.81% +- 0.50% 
+dataset:miniImagenet base -1
+loss:4.155586130261421+_1.5332200983247894
+
+Time: 20230519-002319, Setting: Conv4_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 29.50% +- 0.44% 
+dataset:miniImagenet novel -1
+loss:4.385428273200989+_1.5543554172706018
+
+Time: 20230519-002337, Setting: Conv6_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 40.57% +- 0.67% 
+dataset:CUB base -1
+loss:5.913145445585251+_2.2971786696691328
+
+Time: 20230519-002715, Setting: Conv6_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 30.12% +- 0.47% 
+dataset:CUB novel -1
+loss:7.446935368895531+_2.397056047971427
+
+Time: 20230519-002751, Setting: Conv4_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 31.92% +- 0.52% 
+dataset:miniImagenet base -1
+loss:4.132201196551323+_1.4824396185611544
+
+Time: 20230519-003102, Setting: Conv4_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 29.86% +- 0.45% 
+dataset:miniImagenet novel -1
+loss:4.324177977919579+_1.4323375964127785
+
+Time: 20230519-003110, Setting: Conv6_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 40.21% +- 0.67% 
+dataset:CUB base -1
+loss:6.239022993206978+_2.3882362331652534
+
+Time: 20230519-003425, Setting: Conv6_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 30.59% +- 0.48% 
+dataset:CUB novel -1
+loss:7.610359892368317+_2.494411017495709
+
+Time: 20230519-003526, Setting: Conv6_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 40.44% +- 0.58% 
+dataset:miniImagenet base -1
+loss:1.936266541182995+_0.49079819305951283
+
+Time: 20230519-003829, Setting: Conv6_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 37.66% +- 0.58% 
+dataset:CUB base -1
+loss:5.0537980327606205+_1.7312437682865114
+
+Time: 20230519-003913, Setting: Conv6_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 34.49% +- 0.49% 
+dataset:miniImagenet novel -1
+loss:2.069283165812492+_0.425109614100053
+
+Time: 20230519-004142, Setting: Conv6_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 31.77% +- 0.50% 
+dataset:CUB novel -1
+loss:5.8065033665895465+_1.816813172548307
+
+Time: 20230519-004317, Setting: Conv6_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 41.54% +- 0.56% 
+dataset:miniImagenet base -1
+loss:2.0397899977564813+_0.5547396427381627
+
+Time: 20230519-004523, Setting: ResNet10_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 99.99% +- 0.01% 
+dataset:CUB base -1
+loss:0.010835353655857034+_0.00706527123060948
+
+Time: 20230519-004706, Setting: Conv6_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 34.49% +- 0.48% 
+dataset:miniImagenet novel -1
+loss:2.231011876821518+_0.4968673277564428
+
+Time: 20230519-004814, Setting: ResNet10_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 57.76% +- 0.71% 
+dataset:CUB novel -1
+loss:1.1340728080272675+_0.32262562446483156
+
+Time: 20230519-005127, Setting: Conv6_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 40.94% +- 0.57% 
+dataset:miniImagenet base -1
+loss:2.0054957484006883+_0.5236886611862492
+
+Time: 20230519-005219, Setting: ResNet10_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 99.98% +- 0.02% 
+dataset:CUB base -1
+loss:0.01190566091274377+_0.00962887017127893
+
+Time: 20230519-005458, Setting: Conv6_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 34.67% +- 0.47% 
+dataset:miniImagenet novel -1
+loss:2.1724161611795427+_0.4772730412206951
+
+Time: 20230519-005530, Setting: ResNet10_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 57.30% +- 0.67% 
+dataset:CUB novel -1
+loss:1.1471688258349895+_0.3076281899201063
+
+Time: 20230519-005912, Setting: ResNet10_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 82.86% +- 0.50% 
+dataset:miniImagenet base -1
+loss:0.6173190827965737+_0.1349940413125666
+
+Time: 20230519-005915, Setting: ResNet10_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 99.98% +- 0.01% 
+dataset:CUB base -1
+loss:0.012195497516426257+_0.010573258048300099
+
+Time: 20230519-010244, Setting: ResNet10_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 50.19% +- 0.63% 
+dataset:miniImagenet novel -1
+loss:1.225438791155815+_0.19276340478311407
+
+Time: 20230519-010248, Setting: ResNet10_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 57.68% +- 0.69% 
+dataset:CUB novel -1
+loss:1.1266408188045025+_0.3050452498986952
+
+Time: 20230519-010610, Setting: ResNet18_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 99.87% +- 0.05% 
+dataset:CUB base -1
+loss:0.006666215415312763+_0.01604541398285665
+
+Time: 20230519-010628, Setting: ResNet10_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 87.90% +- 0.44% 
+dataset:miniImagenet base -1
+loss:0.4962519931346178+_0.1254873804511985
+
+Time: 20230519-010910, Setting: ResNet18_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 59.03% +- 0.69% 
+dataset:CUB novel -1
+loss:1.4170069573521613+_0.5179172188601245
+
+Time: 20230519-010937, Setting: ResNet10_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 49.81% +- 0.62% 
+dataset:miniImagenet novel -1
+loss:1.2397761558890343+_0.18979385779586522
+
+Time: 20230519-011158, Setting: ResNet18_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 99.81% +- 0.05% 
+dataset:CUB base -1
+loss:0.0076354777647839+_0.017564459520985884
+
+Time: 20230519-011309, Setting: ResNet10_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 88.21% +- 0.44% 
+dataset:miniImagenet base -1
+loss:0.4934751766175032+_0.1239250698207975
+
+Time: 20230519-011457, Setting: ResNet18_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 58.77% +- 0.69% 
+dataset:CUB novel -1
+loss:1.4607113584280014+_0.5399349936875721
+
+Time: 20230519-011553, Setting: ResNet10_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 49.78% +- 0.60% 
+dataset:miniImagenet novel -1
+loss:1.2363373088240623+_0.17749769273275198
+
+Time: 20230519-011729, Setting: ResNet18_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 99.89% +- 0.04% 
+dataset:CUB base -1
+loss:0.0056564135641556275+_0.015472011676067291
+
+Time: 20230519-011925, Setting: ResNet18_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 95.16% +- 0.28% 
+dataset:miniImagenet base -1
+loss:0.3400373347103596+_0.08887116403137851
+
+Time: 20230519-012002, Setting: ResNet18_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 57.52% +- 0.69% 
+dataset:CUB novel -1
+loss:1.5292159967422485+_0.592936458510528
+
+Time: 20230519-012140, Setting: ResNet18_baseline_seed5 1shot 5way_test, Acc: 1000 Test Acc = 49.91% +- 0.61% 
+dataset:miniImagenet novel -1
+loss:1.2373583874106406+_0.17707840641375197
+
+Time: 20230519-012337, Setting: ResNet10_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 55.15% +- 0.78% 
+dataset:CUB novel -1
+loss:1.301526541829109+_0.4426964369304018
+
+Time: 20230519-012405, Setting: ResNet10_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 43.24% +- 0.61% 
+dataset:miniImagenet novel 2399
+loss:2.13694823461771+_0.6063309882629763
+
+Time: 20230519-012418, Setting: ResNet10_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 49.24% +- 0.68% 
+dataset:miniImagenet novel -1
+loss:1.2839373848438262+_0.28184547480915345
+
+Time: 20230519-012441, Setting: ResNet10_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 51.68% +- 0.72% 
+dataset:CUB novel 2399
+loss:2.0820522589087487+_0.811347702778583
+
+Time: 20230519-012622, Setting: ResNet10_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 56.77% +- 0.77% 
+dataset:CUB novel -1
+loss:1.9490409426689148+_0.8723544083395353
+
+Time: 20230519-012649, Setting: ResNet10_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 43.47% +- 0.63% 
+dataset:miniImagenet novel 2399
+loss:1.9359969834685327+_0.4939744612126621
+
+Time: 20230519-012711, Setting: ResNet18_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 94.41% +- 0.30% 
+dataset:miniImagenet base -1
+loss:0.38175124043226244+_0.09346761550061641
+
+Time: 20230519-012721, Setting: ResNet10_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 49.92% +- 0.68% 
+dataset:miniImagenet novel -1
+loss:1.275891415953636+_0.27756221811467874
+
+Time: 20230519-012743, Setting: ResNet10_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 55.87% +- 0.75% 
+dataset:CUB novel 2399
+loss:2.0328740167617796+_0.9124636245831086
+
+Time: 20230519-012908, Setting: ResNet10_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 56.87% +- 0.80% 
+dataset:CUB novel -1
+loss:1.5692315182089807+_0.6588099739673238
+
+Time: 20230519-012931, Setting: ResNet10_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 42.85% +- 0.61% 
+dataset:miniImagenet novel 2399
+loss:2.563222041964531+_0.6856226496367355
+
+Time: 20230519-013021, Setting: ResNet10_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 49.00% +- 0.68% 
+dataset:miniImagenet novel -1
+loss:1.3400213613510132+_0.3208716497672797
+
+Time: 20230519-013046, Setting: ResNet10_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 55.81% +- 0.74% 
+dataset:CUB novel 2399
+loss:1.9803631022274495+_0.8581773752782739
+
+Time: 20230519-013146, Setting: ResNet18_baseline_seed6 1shot 5way_test, Acc: 1000 Test Acc = 48.29% +- 0.58% 
+dataset:miniImagenet novel -1
+loss:1.2757727950811386+_0.16060679230403296
+
+Time: 20230519-013148, Setting: ResNet10_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 70.43% +- 0.74% 
+dataset:CUB novel -1
+loss:0.8101683299541473+_0.315451892794488
+
+Time: 20230519-013219, Setting: ResNet10_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 53.04% +- 0.69% 
+dataset:miniImagenet novel 2399
+loss:1.1969786382317542+_0.28324141584394946
+
+Time: 20230519-013338, Setting: ResNet10_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 53.88% +- 0.67% 
+dataset:miniImagenet novel -1
+loss:1.173105781376362+_0.2868468818644101
+
+Time: 20230519-013401, Setting: ResNet10_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 71.00% +- 0.75% 
+dataset:CUB novel 2399
+loss:0.7957402620315551+_0.3227539329367625
+
+Time: 20230519-013433, Setting: ResNet10_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 70.05% +- 0.76% 
+dataset:CUB novel -1
+loss:0.7874927746653557+_0.2795846573815291
+
+Time: 20230519-013507, Setting: ResNet10_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 53.70% +- 0.71% 
+dataset:miniImagenet novel 2399
+loss:1.2094307236671449+_0.32785954316539684
+
+Time: 20230519-013636, Setting: ResNet10_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 55.06% +- 0.71% 
+dataset:miniImagenet novel -1
+loss:1.1590465860068797+_0.30729531406578336
+
+Time: 20230519-013704, Setting: ResNet10_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 70.08% +- 0.72% 
+dataset:CUB novel 2399
+loss:0.8167755882143974+_0.31364759479890086
+
+Time: 20230519-013711, Setting: ResNet10_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 68.93% +- 0.75% 
+dataset:CUB novel -1
+loss:0.85997048561275+_0.33668005974878895
+
+Time: 20230519-013747, Setting: ResNet18_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 94.04% +- 0.30% 
+dataset:miniImagenet base -1
+loss:0.3870475075691938+_0.09095286554690797
+
+Time: 20230519-013752, Setting: ResNet10_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 53.97% +- 0.73% 
+dataset:miniImagenet novel 2399
+loss:1.2070980414450168+_0.33785466653999446
+
+Time: 20230519-013931, Setting: ResNet10_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 53.59% +- 0.71% 
+dataset:miniImagenet novel -1
+loss:1.1841408203840256+_0.2932741334572822
+
+Time: 20230519-014006, Setting: ResNet10_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 69.81% +- 0.75% 
+dataset:CUB novel 2399
+loss:0.81196319013834+_0.30968213046240023
+
+Time: 20230519-014110, Setting: ResNet18_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 55.54% +- 0.78% 
+dataset:CUB novel -1
+loss:1.983910258308053+_0.7912290774671598
+
+Time: 20230519-014149, Setting: ResNet18_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 43.84% +- 0.64% 
+dataset:miniImagenet novel 2399
+loss:2.2605630903840064+_0.6260842152805249
+
+Time: 20230519-014252, Setting: ResNet18_baseline_seed7 1shot 5way_test, Acc: 1000 Test Acc = 48.70% +- 0.58% 
+dataset:miniImagenet novel -1
+loss:1.2621298679113389+_0.16673073137726624
+
+Time: 20230519-014346, Setting: ResNet18_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 49.10% +- 0.69% 
+dataset:miniImagenet novel -1
+loss:1.3174421448111535+_0.3118744159822561
+
+Time: 20230519-014419, Setting: ResNet18_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 52.90% +- 0.71% 
+dataset:CUB novel 2399
+loss:2.5110536316633225+_1.0082317973390162
+
+Time: 20230519-014509, Setting: ResNet18_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 58.03% +- 0.75% 
+dataset:CUB novel -1
+loss:2.1513557332754134+_0.8932390986327015
+
+Time: 20230519-014546, Setting: ResNet18_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 44.56% +- 0.62% 
+dataset:miniImagenet novel 2399
+loss:2.392407587945461+_0.7048485257341983
+
+Time: 20230519-014743, Setting: ResNet18_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 48.93% +- 0.66% 
+dataset:miniImagenet novel -1
+loss:1.2408822978138923+_0.23746577363526578
+
+Time: 20230519-014816, Setting: ResNet18_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 57.88% +- 0.75% 
+dataset:CUB novel 2399
+loss:2.2072548705935477+_0.9225414288230019
+
+Time: 20230519-014906, Setting: ResNet18_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 52.93% +- 0.75% 
+dataset:CUB novel -1
+loss:2.4287101813554766+_0.9516241017703346
+
+Time: 20230519-014949, Setting: ResNet18_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 50.64% +- 0.68% 
+dataset:miniImagenet novel 2399
+loss:1.209858584702015+_0.24866612139020258
+
+Time: 20230519-015141, Setting: ResNet18_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 48.33% +- 0.65% 
+dataset:miniImagenet novel -1
+loss:1.2415798687338828+_0.21055062924600074
+
+Time: 20230519-015214, Setting: ResNet18_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 52.73% +- 0.75% 
+dataset:CUB novel 2399
+loss:2.7989848904013632+_1.1977349272557432
+
+Time: 20230519-015307, Setting: ResNet18_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 69.27% +- 0.80% 
+dataset:CUB novel -1
+loss:0.8675497925430536+_0.37257990292705906
+
+Time: 20230519-015345, Setting: ResNet18_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 52.21% +- 0.75% 
+dataset:miniImagenet novel 2399
+loss:1.1526084645986556+_0.2649320726210662
+
+Time: 20230519-015540, Setting: ResNet18_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 51.15% +- 0.69% 
+dataset:miniImagenet novel -1
+loss:1.2128967091441154+_0.25882482833259823
+
+Time: 20230519-015610, Setting: ResNet18_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 68.76% +- 0.80% 
+dataset:CUB novel 2399
+loss:0.9622628397494555+_0.47043946971385914
+
+Time: 20230519-015705, Setting: ResNet18_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 72.03% +- 0.80% 
+dataset:CUB novel -1
+loss:0.8165229317694902+_0.4088222111883923
+
+Time: 20230519-015744, Setting: ResNet18_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 52.52% +- 0.68% 
+dataset:miniImagenet novel 2399
+loss:1.1757369768619537+_0.26803588312243887
+
+Time: 20230519-015938, Setting: ResNet18_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 52.22% +- 0.71% 
+dataset:miniImagenet novel -1
+loss:1.145003988146782+_0.2549917344012258
+
+Time: 20230519-020007, Setting: ResNet18_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 69.39% +- 0.80% 
+dataset:CUB novel 2399
+loss:0.9199470461085438+_0.45950982880432395
+
+Time: 20230519-020035, Setting: ResNet10_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 97.58% +- 0.28% 
+dataset:miniImagenet base 2399
+loss:0.09194298779746168+_0.11586423932402197
+
+Time: 20230519-020054, Setting: ResNet18_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 69.98% +- 0.81% 
+dataset:CUB novel -1
+loss:0.8621232455596328+_0.402782386780917
+
+Time: 20230519-020317, Setting: ResNet10_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 98.59% +- 0.21% 
+dataset:miniImagenet base 2399
+loss:0.0700566228966345+_0.10309525045268245
+
+Time: 20230519-020337, Setting: ResNet10_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 94.70% +- 0.46% 
+dataset:CUB base -1
+loss:0.21092567521333694+_0.1902785656296552
+
+Time: 20230519-020337, Setting: ResNet18_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 52.55% +- 0.73% 
+dataset:miniImagenet novel -1
+loss:1.1729340261220933+_0.2756305097152223
+
+Time: 20230519-020405, Setting: ResNet18_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 69.63% +- 0.78% 
+dataset:CUB novel 2399
+loss:0.9175643640756607+_0.44915003095890477
+
+Time: 20230519-020601, Setting: ResNet10_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 97.66% +- 0.26% 
+dataset:miniImagenet base 2399
+loss:0.07618602853675839+_0.12117430152808455
+
+Time: 20230519-020622, Setting: ResNet10_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 99.88% +- 0.05% 
+dataset:CUB base -1
+loss:0.007100774080347378+_0.01794199078094463
+
+Time: 20230519-020623, Setting: ResNet10_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 67.98% +- 0.84% 
+dataset:miniImagenet base -1
+loss:0.851194237396121+_0.2959365901615493
+
+Time: 20230519-020647, Setting: ResNet10_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 99.67% +- 0.08% 
+dataset:CUB base 2399
+loss:0.01650802673365547+_0.04139179417913513
+
+Time: 20230519-020844, Setting: ResNet10_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 77.94% +- 0.78% 
+dataset:miniImagenet base 2399
+loss:0.6205349890962243+_0.2756206358782129
+
+Time: 20230519-020905, Setting: ResNet10_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 99.81% +- 0.08% 
+dataset:CUB base -1
+loss:0.01598580029484583+_0.03687691199854794
+
+Time: 20230519-020908, Setting: ResNet10_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 71.36% +- 0.78% 
+dataset:miniImagenet base -1
+loss:0.7678295703977347+_0.26798654089955404
+
+Time: 20230519-020931, Setting: ResNet10_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 99.95% +- 0.03% 
+dataset:CUB base 2399
+loss:0.004037403220413807+_0.011408849697893075
+
+Time: 20230519-021126, Setting: ResNet10_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 80.98% +- 0.72% 
+dataset:miniImagenet base 2399
+loss:0.5445390218421817+_0.26428859448588576
+
+Time: 20230519-021148, Setting: ResNet10_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 95.45% +- 0.43% 
+dataset:CUB base -1
+loss:0.1742482850458473+_0.14726176912729017
+
+Time: 20230519-021155, Setting: ResNet10_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 76.82% +- 0.80% 
+dataset:miniImagenet base -1
+loss:0.6550798271745444+_0.2882313548876128
+
+Time: 20230519-021212, Setting: ResNet10_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 99.95% +- 0.03% 
+dataset:CUB base 2399
+loss:0.004052532832122552+_0.011933454253392959
+
+Time: 20230519-021410, Setting: ResNet10_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 81.86% +- 0.73% 
+dataset:miniImagenet base 2399
+loss:0.5255342749506235+_0.2862447144482913
+
+Time: 20230519-021432, Setting: ResNet10_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 92.72% +- 0.49% 
+dataset:CUB base -1
+loss:0.25741587790474296+_0.1637491690147738
+
+Time: 20230519-021440, Setting: ResNet10_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 75.94% +- 0.78% 
+dataset:miniImagenet base -1
+loss:0.6698671803027392+_0.2796203614357133
+
+Time: 20230519-021455, Setting: ResNet10_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 97.61% +- 0.31% 
+dataset:CUB base 2399
+loss:0.11502421245165169+_0.11433015140442915
+
+Time: 20230519-021723, Setting: ResNet10_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 96.42% +- 0.38% 
+dataset:CUB base -1
+loss:0.13256480303686113+_0.13219798441206007
+
+Time: 20230519-021725, Setting: ResNet10_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 77.60% +- 0.78% 
+dataset:miniImagenet base -1
+loss:0.6252975018918514+_0.2807517822504471
+
+Time: 20230519-021738, Setting: ResNet10_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 97.06% +- 0.34% 
+dataset:CUB base 2399
+loss:0.11951556012779474+_0.11137835811194668
+
+Time: 20230519-021757, Setting: ResNet18_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 97.55% +- 0.28% 
+dataset:miniImagenet base 2399
+loss:0.08905272350553423+_0.16640704079338764
+
+Time: 20230519-022010, Setting: ResNet10_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 79.48% +- 0.74% 
+dataset:miniImagenet base -1
+loss:0.5932860513627529+_0.27980341370766454
+
+Time: 20230519-022019, Setting: ResNet10_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 96.81% +- 0.35% 
+dataset:CUB base 2399
+loss:0.1292828251956962+_0.12018552231964313
+
+Time: 20230519-022121, Setting: ResNet18_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 98.70% +- 0.18% 
+dataset:CUB base -1
+loss:0.04639412289760367+_0.08151814965940886
+
+Time: 20230519-022156, Setting: ResNet18_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 98.23% +- 0.24% 
+dataset:miniImagenet base 2399
+loss:0.06596228904282907+_0.14877281226664082
+
+Time: 20230519-022407, Setting: ResNet18_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 74.07% +- 0.82% 
+dataset:miniImagenet base -1
+loss:0.693504353582859+_0.3044974485763835
+
+Time: 20230519-022421, Setting: ResNet18_maml_approx_5way_1shot_seed5, Acc: 1000 Test Acc = 97.91% +- 0.24% 
+dataset:CUB base 2399
+loss:0.0909913850906305+_0.15649167457085322
+
+Time: 20230519-022514, Setting: ResNet18_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 99.87% +- 0.08% 
+dataset:CUB base -1
+loss:0.006107386347353895+_0.035311411007499495
+
+Time: 20230519-022556, Setting: ResNet18_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 70.26% +- 0.85% 
+dataset:miniImagenet base 2399
+loss:0.7960625296980143+_0.27916002409520607
+
+Time: 20230519-022802, Setting: ResNet18_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 64.65% +- 0.84% 
+dataset:miniImagenet base -1
+loss:0.9105217552483081+_0.2732932523927155
+
+Time: 20230519-022822, Setting: ResNet18_maml_approx_5way_1shot_seed6, Acc: 1000 Test Acc = 99.97% +- 0.02% 
+dataset:CUB base 2399
+loss:0.00215535328992155+_0.008977485756269119
+
+Time: 20230519-022913, Setting: ResNet18_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 99.62% +- 0.10% 
+dataset:CUB base -1
+loss:0.018257394828608085+_0.043522773146105635
+
+Time: 20230519-022951, Setting: ResNet18_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 71.76% +- 0.85% 
+dataset:miniImagenet base 2399
+loss:0.7322636211365461+_0.28108132871856334
+
+Time: 20230519-023156, Setting: ResNet18_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 57.89% +- 0.82% 
+dataset:miniImagenet base -1
+loss:1.0567506318986415+_0.25193028455444344
+
+Time: 20230519-023222, Setting: ResNet18_maml_approx_5way_1shot_seed7, Acc: 1000 Test Acc = 99.63% +- 0.11% 
+dataset:CUB base 2399
+loss:0.016552408209161512+_0.053771016412653305
+
+Time: 20230519-023310, Setting: ResNet18_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 91.56% +- 0.58% 
+dataset:CUB base -1
+loss:0.30160057052597405+_0.2551275536749122
+
+Time: 20230519-023348, Setting: ResNet18_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 70.67% +- 0.86% 
+dataset:miniImagenet base 2399
+loss:0.7831421509981156+_0.2898377959757762
+
+Time: 20230519-023545, Setting: ResNet18_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 97.37% +- 0.35% 
+dataset:CUB base -1
+loss:0.12250279638916255+_0.23342379057774656
+
+Time: 20230519-023555, Setting: ResNet18_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 67.97% +- 0.85% 
+dataset:miniImagenet base -1
+loss:0.8479355950951576+_0.28089762085949355
+
+Time: 20230519-023618, Setting: ResNet18_maml_approx_aug_5way_1shot_seed5, Acc: 1000 Test Acc = 97.86% +- 0.30% 
+dataset:CUB base 2399
+loss:0.0962824055091478+_0.19584074773795648
+
+Time: 20230519-023805, Setting: ResNet18_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 95.25% +- 0.44% 
+dataset:CUB base -1
+loss:0.19260537182725965+_0.22885060835091897
+
+Time: 20230519-023950, Setting: ResNet18_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 72.38% +- 0.84% 
+dataset:miniImagenet base -1
+loss:0.712372206300497+_0.2764002984101487
+
+Time: 20230519-024015, Setting: ResNet18_maml_approx_aug_5way_1shot_seed6, Acc: 1000 Test Acc = 98.01% +- 0.27% 
+dataset:CUB base 2399
+loss:0.08636536843562499+_0.1416713035396471
+
+Time: 20230519-024345, Setting: ResNet18_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 71.09% +- 0.83% 
+dataset:miniImagenet base -1
+loss:0.7734951684623956+_0.2781229606192694
+
+Time: 20230519-024402, Setting: ResNet18_maml_approx_aug_5way_1shot_seed7, Acc: 1000 Test Acc = 98.05% +- 0.27% 
+dataset:CUB base 2399
+loss:0.08143709592986852+_0.1260125761707061
+
+Time: 20230519-034826, Setting: Conv6_baseline_aug_seed5 1shot 5way_test, Acc: 1000 Test Acc = 50.63% +- 0.58% 
+dataset:miniImagenet novel -1
+loss:1.346344014286995+_0.08809502862314562
+

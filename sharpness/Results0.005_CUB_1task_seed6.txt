@@ -1,0 +1,80 @@
+ Conv4
+no aug
+base
+lossq
+sharpness: Confidence interval: 0.02538349 ± 0.00154017
+ Conv6
+no aug
+base
+lossq
+sharpness: Confidence interval: 0.01741049 ± 0.00168835
+ ResNet10
+no aug
+base
+lossq
+sharpness: Confidence interval: 0.00058309 ± 0.00037349
+ ResNet18
+no aug
+base
+lossq
+sharpness: Confidence interval: 0.00077266 ± 0.00028215
+ Conv4
+aug
+base
+lossq
+sharpness: Confidence interval: 0.01891649 ± 0.00100359
+ Conv6
+aug
+base
+lossq
+sharpness: Confidence interval: 0.01479297 ± 0.00160089
+ ResNet10
+aug
+base
+lossq
+sharpness: Confidence interval: 0.00805478 ± 0.00100261
+ ResNet18
+aug
+base
+lossq
+sharpness: Confidence interval: 0.00438863 ± 0.00282944
+ Conv4
+no aug
+novel
+lossq
+sharpness: Confidence interval: 0.02852830 ± 0.00193802
+ Conv6
+no aug
+novel
+lossq
+sharpness: Confidence interval: 0.02721859 ± 0.00281490
+ ResNet10
+no aug
+novel
+lossq
+sharpness: Confidence interval: 0.02223589 ± 0.03249017
+ ResNet18
+no aug
+novel
+lossq
+sharpness: Confidence interval: 0.06462178 ± 0.00700963
+ Conv4
+aug
+novel
+lossq
+sharpness: Confidence interval: 0.02197377 ± 0.00133739
+ Conv6
+aug
+novel
+lossq
+sharpness: Confidence interval: 0.02394383 ± 0.00204004
+ ResNet10
+aug
+novel
+lossq
+sharpness: Confidence interval: 0.02008675 ± 0.00172072
+ ResNet18
+aug
+novel
+lossq
+sharpness: Confidence interval: 0.02805502 ± 0.00368464

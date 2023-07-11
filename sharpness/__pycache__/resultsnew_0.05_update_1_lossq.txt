@@ -1,0 +1,96 @@
+ Conv4
+no aug
+base
+lossq
+sharpness: Confidence interval: 0.71007927 ± 0.02_____lo: 1.5449278378486633lp: 2.255007105668386
+
+ Conv6
+no aug
+base
+lossq
+sharpness: Confidence interval: 0.75592124 ± 0.02_____lo: 1.250115966796875lp: 2.0060372074445088
+
+ ResNet10
+no aug
+base
+lossq
+sharpness: Confidence interval: 0.57947707 ± 0.02_____lo: 1.0194115940729778lp: 1.5988886682192485
+
+ ResNet18
+no aug
+base
+lossq
+sharpness: Confidence interval: 0.50755467 ± 0.02_____lo: 0.8303512028853098lp: 1.3379058678944906
+
+ Conv4
+aug
+base
+lossq
+sharpness: Confidence interval: 0.42632233 ± 0.01_____lo: 1.5558432324727376lp: 1.9821655623118082
+
+ Conv6
+aug
+base
+lossq
+sharpness: Confidence interval: 0.51815315 ± 0.01_____lo: 1.2819416201114655lp: 1.8000947737693787
+
+ ResNet10
+aug
+base
+lossq
+sharpness: Confidence interval: 0.59182587 ± 0.02_____lo: 0.8506756230195364lp: 1.442501497666041
+
+ ResNet18
+aug
+base
+lossq
+sharpness: Confidence interval: 0.53475550 ± 0.01_____lo: 1.0740884272257487lp: 1.6088439281781515
+
+ Conv4
+no aug
+novel
+lossq
+sharpness: Confidence interval: 0.74816225 ± 0.02_____lo: 1.925663813749949lp: 2.673826066652934
+
+ Conv6
+no aug
+novel
+lossq
+sharpness: Confidence interval: 0.81438322 ± 0.02_____lo: 1.782568564414978lp: 2.5969517827033997
+
+ ResNet10
+no aug
+novel
+lossq
+sharpness: Confidence interval: 0.62748537 ± 0.01818155_____lo: 1.3975074036916098lp: 2.024992774327596
+
+ ResNet18
+no aug
+novel
+lossq
+sharpness: Confidence interval: 0.50616264 ± 0.01357481_____lo: 1.2705851590633392lp: 1.7767478028933208
+
+ Conv4
+aug
+novel
+lossq
+sharpness: Confidence interval: 0.43631171 ± 0.00787916_____lo: 1.7125624187787374lp: 2.148874127070109
+
+ Conv6
+aug
+novel
+lossq
+sharpness: Confidence interval: 0.52118644 ± 0.01016701_____lo: 1.5786932444572448lp: 2.0998796860376996
+
+ ResNet10
+aug
+novel
+lossq
+sharpness: Confidence interval: 0.68729860 ± 0.01986233_____lo: 1.332484443585078lp: 2.0197830398877463
+
+ ResNet18
+aug
+novel
+lossq
+sharpness: Confidence interval: 0.53151170 ± 0.01484294_____lo: 1.3444704620043437lp: 1.8759821605682374
+
