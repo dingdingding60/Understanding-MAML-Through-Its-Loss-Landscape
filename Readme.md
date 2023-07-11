@@ -1,38 +1,3 @@
-This is the code for Bosong Ding's Master Thesis, "Understanding MAML Through Its Loss Landscape".
-The training code is drawn from Chen et al.'s repo: https://github.com/wyharveychen/CloserLookFewShot
-The visualization code is drawn from Li et al.'s repo: https://github.com/tomgoldstein/loss-landscape
-
-## Environment
-`pip install requirements.txt`
-
-## Getting started
-### CUB
-* Change directory to `Training/filelists/CUB`
-* run `source ./download_CUB.sh`
-
-### mini-ImageNet
-download Kaggle datasethttps://www.kaggle.com/datasets/arjunashok33/miniimagenet
-change `data_path` in `Training/filelists/miniImagenet/write_miniImagenet_filelist.py`
-`python Training/filelists/miniImagenet/write_miniImagenet_filelist.py`
-
-## Train
-Run
-`sh Training/run_train.sh `
-
-## Test
-`sh Training/run_test.sh`
-
-## Results
-The test results will be recorded in `./record/`
-
-## loss landscape visualization 
-`sh Visualization/run_vis.sh`
-to rescale the loss landscape: `sh Visualization/rescale.sh`
-
-## Calculate sharpness
-`sh sharpness/run_sharpness.sh`
-
-
 # Understanding MAML Through Its Loss Landscape
 This repository contains the code base for the Master's Thesis of Bosong Ding. The project is dedicated to exploring and understanding the loss landscape of MAML (Model-Agnostic Meta-Learning). The training code is adopted from Chen et al.'s repository and visualization code is borrowed from Li et al.'s repository.
 
