@@ -40,5 +40,3 @@ Calculate the sharpness of the loss landscape using: `sh sharpness/run_sharpness
 1. [Chen et al.'s Repo](https://github.com/wyharveychen/CloserLookFewShot)
 2. [Li et al.'s Repo](https://github.com/tomgoldstein/loss-landscape)
 
-## License
-This project is licensed under the terms of the MIT license.
