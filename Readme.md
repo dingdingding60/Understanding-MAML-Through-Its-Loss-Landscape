@@ -27,7 +27,7 @@ Start the training process with the following command: `sh Training/run_train.sh
 Run tests with the following command: `sh Training/run_test.sh`
 
 ## Results
-The test results will be recorded in the `./record/` directory.
+The test results will be recorded in the `Training/record/` directory.
 
 ## Loss Landscape Visualization 
 Visualize the loss landscape using: `sh Visualization/run_vis.sh`
